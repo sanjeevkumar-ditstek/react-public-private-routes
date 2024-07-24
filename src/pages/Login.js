@@ -69,7 +69,7 @@ function Login() {
                 </Button>
             </Form>
             <br />
-            <a href="https://dummyjson.com/users" target="_blank" className="mt-5">
+            <a href="https://dummyjson.com/users" target="_blank" rel="noreferrer" className="mt-5">
                 Get test credentials here
             </a>
         </Container>
